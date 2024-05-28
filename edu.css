@@ -1,0 +1,49 @@
+*{
+    padding: 1px;
+    margin: 1px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+body{
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+}
+.pri{
+    width: 100px;
+    border-radius: 50%;
+}
+.sec{
+    width: 100px;
+    border-radius: 50%;
+}
+.ict{
+    width: 100px;
+    border-radius: 50%;
+}
+.back1{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-right: 500px;
+}
+.back2{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-right: 500px;
+}
+.back3{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-right: 500px;
+}
+.cent{
+    text-align: center;
+}
